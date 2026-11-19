@@ -1,0 +1,774 @@
+{
+    "individual_results": [
+        {
+            "query": "What does ISO/IEC 27001 require an organization to establish, implement, maintain, and continually improve?",
+            "relevant_chunks": [
+                32
+            ],
+            "retrieved_chunks": [
+                29,
+                21,
+                38,
+                26,
+                113
+            ],
+            "precision": 0.0,
+            "recall": 0.0
+        },
+        {
+            "query": "Can an organization exclude some requirements in clauses 4 through 10 and still claim conformity with ISO/IEC 27001?",
+            "relevant_chunks": [
+                33
+            ],
+            "retrieved_chunks": [
+                33,
+                50,
+                30,
+                74,
+                62
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        },
+        {
+            "query": "What internal and external factors must an organization identify when understanding its context for an ISMS?",
+            "relevant_chunks": [
+                35
+            ],
+            "retrieved_chunks": [
+                35,
+                57,
+                37,
+                29,
+                5
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        },
+        {
+            "query": "Which interested-party matters must be determined when setting up an information security management system?",
+            "relevant_chunks": [
+                36
+            ],
+            "retrieved_chunks": [
+                36,
+                58,
+                27,
+                41,
+                44
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        },
+        {
+            "query": "What should an organization consider when defining the boundaries and applicability of its ISMS?",
+            "relevant_chunks": [
+                37
+            ],
+            "retrieved_chunks": [
+                37,
+                35,
+                41,
+                53,
+                65
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        },
+        {
+            "query": "Does the organization need to document the scope of its information security management system?",
+            "relevant_chunks": [
+                38
+            ],
+            "retrieved_chunks": [
+                32,
+                37,
+                58,
+                72,
+                5
+            ],
+            "precision": 0.0,
+            "recall": 0.0
+        },
+        {
+            "query": "What responsibilities does top management have to demonstrate leadership and commitment to the ISMS?",
+            "relevant_chunks": [
+                39
+            ],
+            "retrieved_chunks": [
+                38,
+                43,
+                42,
+                40,
+                76
+            ],
+            "precision": 0.0,
+            "recall": 0.0
+        },
+        {
+            "query": "What commitments and characteristics must an organization's information security policy include?",
+            "relevant_chunks": [
+                41
+            ],
+            "retrieved_chunks": [
+                41,
+                42,
+                92,
+                53,
+                37
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        },
+        {
+            "query": "Who assigns information security roles and what two key responsibilities must be assigned?",
+            "relevant_chunks": [
+                43
+            ],
+            "retrieved_chunks": [
+                92,
+                40,
+                75,
+                53,
+                43
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        },
+        {
+            "query": "Why must an organization identify risks and opportunities when planning its ISMS?",
+            "relevant_chunks": [
+                44
+            ],
+            "retrieved_chunks": [
+                44,
+                45,
+                47,
+                35,
+                8
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        },
+        {
+            "query": "What criteria should be included in an information security risk assessment process?",
+            "relevant_chunks": [
+                46
+            ],
+            "retrieved_chunks": [
+                46,
+                48,
+                45,
+                64,
+                47
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        },
+        {
+            "query": "How should an organization identify and analyse information security risks, including risk owners and potential consequences?",
+            "relevant_chunks": [
+                47
+            ],
+            "retrieved_chunks": [
+                47,
+                45,
+                48,
+                44,
+                46
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        },
+        {
+            "query": "Why does the risk treatment process compare selected controls against Annex A?",
+            "relevant_chunks": [
+                49
+            ],
+            "retrieved_chunks": [
+                51,
+                49,
+                48,
+                50,
+                19
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        },
+        {
+            "query": "What information must be included in the Statement of Applicability?",
+            "relevant_chunks": [
+                50
+            ],
+            "retrieved_chunks": [
+                53,
+                33,
+                50,
+                88,
+                65
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        },
+        {
+            "query": "What qualities should information security objectives have under ISO/IEC 27001?",
+            "relevant_chunks": [
+                52
+            ],
+            "retrieved_chunks": [
+                41,
+                113,
+                52,
+                65,
+                29
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        },
+        {
+            "query": "How should an organization ensure that people performing work affecting information security are competent?",
+            "relevant_chunks": [
+                55
+            ],
+            "retrieved_chunks": [
+                56,
+                55,
+                63,
+                46,
+                92
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        },
+        {
+            "query": "What should employees and other people under the organization's control know about information security?",
+            "relevant_chunks": [
+                56
+            ],
+            "retrieved_chunks": [
+                56,
+                92,
+                65,
+                53,
+                58
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        },
+        {
+            "query": "What communication details must an organization determine for its ISMS?",
+            "relevant_chunks": [
+                57
+            ],
+            "retrieved_chunks": [
+                35,
+                58,
+                53,
+                57,
+                5
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        },
+        {
+            "query": "What must be checked when documented information is created or updated?",
+            "relevant_chunks": [
+                59
+            ],
+            "retrieved_chunks": [
+                53,
+                59,
+                60,
+                57,
+                65
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        },
+        {
+            "query": "How must documented information be controlled and protected?",
+            "relevant_chunks": [
+                60
+            ],
+            "retrieved_chunks": [
+                53,
+                59,
+                60,
+                81,
+                88
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        },
+        {
+            "query": "When must an organization perform information security risk assessments during operation?",
+            "relevant_chunks": [
+                63
+            ],
+            "retrieved_chunks": [
+                46,
+                45,
+                48,
+                63,
+                47
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        },
+        {
+            "query": "What should an organization decide about monitoring and measuring information security performance?",
+            "relevant_chunks": [
+                65
+            ],
+            "retrieved_chunks": [
+                65,
+                70,
+                66,
+                51,
+                48
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        },
+        {
+            "query": "What is the purpose of internal audits under the standard?",
+            "relevant_chunks": [
+                67
+            ],
+            "retrieved_chunks": [
+                66,
+                68,
+                67,
+                35,
+                29
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        },
+        {
+            "query": "What should an internal audit programme specify, and how should auditor objectivity be protected?",
+            "relevant_chunks": [
+                68
+            ],
+            "retrieved_chunks": [
+                67,
+                68,
+                66,
+                16,
+                65
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        },
+        {
+            "query": "How often should top management review the ISMS, and what is the purpose of the review?",
+            "relevant_chunks": [
+                69
+            ],
+            "retrieved_chunks": [
+                69,
+                43,
+                53,
+                71,
+                41
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        },
+        {
+            "query": "What topics and performance feedback should be considered as inputs to management review?",
+            "relevant_chunks": [
+                70
+            ],
+            "retrieved_chunks": [
+                65,
+                70,
+                66,
+                69,
+                25
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        },
+        {
+            "query": "What actions are required when an information security nonconformity occurs?",
+            "relevant_chunks": [
+                72
+            ],
+            "retrieved_chunks": [
+                72,
+                55,
+                93,
+                57,
+                73
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        },
+        {
+            "query": "How are the Annex A information security controls related to ISO/IEC 27002:2022 and clause 6.1.3?",
+            "relevant_chunks": [
+                75
+            ],
+            "retrieved_chunks": [
+                74,
+                50,
+                31,
+                49,
+                113
+            ],
+            "precision": 0.0,
+            "recall": 0.0
+        },
+        {
+            "query": "What does the standard say about collecting and analysing information about security threats?",
+            "relevant_chunks": [
+                77
+            ],
+            "retrieved_chunks": [
+                47,
+                51,
+                86,
+                48,
+                58
+            ],
+            "precision": 0.0,
+            "recall": 0.0
+        },
+        {
+            "query": "How should information be classified, and which security properties should guide classification?",
+            "relevant_chunks": [
+                79
+            ],
+            "retrieved_chunks": [
+                53,
+                47,
+                25,
+                65,
+                58
+            ],
+            "precision": 0.0,
+            "recall": 0.0
+        },
+        {
+            "query": "What does the access control measure require for physical and logical access?",
+            "relevant_chunks": [
+                80
+            ],
+            "retrieved_chunks": [
+                100,
+                80,
+                104,
+                95,
+                61
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        },
+        {
+            "query": "What should an organization put in place to manage information security when using cloud services?",
+            "relevant_chunks": [
+                84
+            ],
+            "retrieved_chunks": [
+                84,
+                53,
+                27,
+                65,
+                40
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        },
+        {
+            "query": "How should an organization assess security events and decide whether they are incidents?",
+            "relevant_chunks": [
+                85
+            ],
+            "retrieved_chunks": [
+                85,
+                45,
+                47,
+                29,
+                86
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        },
+        {
+            "query": "How should an organization respond to information security incidents?",
+            "relevant_chunks": [
+                86
+            ],
+            "retrieved_chunks": [
+                45,
+                85,
+                53,
+                27,
+                87
+            ],
+            "precision": 0.0,
+            "recall": 0.0
+        },
+        {
+            "query": "When should background checks be conducted for people joining an organization, and what should influence them?",
+            "relevant_chunks": [
+                91
+            ],
+            "retrieved_chunks": [
+                91,
+                55,
+                65,
+                35,
+                53
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        },
+        {
+            "query": "What security measures are required for employees working remotely?",
+            "relevant_chunks": [
+                94
+            ],
+            "retrieved_chunks": [
+                94,
+                97,
+                56,
+                57,
+                55
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        },
+        {
+            "query": "How should personnel report observed or suspected information security events?",
+            "relevant_chunks": [
+                95
+            ],
+            "retrieved_chunks": [
+                53,
+                86,
+                95,
+                85,
+                93
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        },
+        {
+            "query": "What are clear desk and clear screen rules intended to cover?",
+            "relevant_chunks": [
+                97
+            ],
+            "retrieved_chunks": [
+                97,
+                50,
+                32,
+                90,
+                35
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        },
+        {
+            "query": "How should storage media be managed throughout its lifecycle?",
+            "relevant_chunks": [
+                98
+            ],
+            "retrieved_chunks": [
+                98,
+                103,
+                99,
+                60,
+                53
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        },
+        {
+            "query": "What is required to protect cables carrying power, data, or information services?",
+            "relevant_chunks": [
+                99
+            ],
+            "retrieved_chunks": [
+                99,
+                57,
+                97,
+                98,
+                53
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        },
+        {
+            "query": "How should privileged access rights be allocated and used?",
+            "relevant_chunks": [
+                100
+            ],
+            "retrieved_chunks": [
+                100,
+                101,
+                81,
+                61,
+                75
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        },
+        {
+            "query": "What does the standard require to protect systems against malware?",
+            "relevant_chunks": [
+                102
+            ],
+            "retrieved_chunks": [
+                102,
+                109,
+                107,
+                53,
+                97
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        },
+        {
+            "query": "When should information stored on systems or media be deleted?",
+            "relevant_chunks": [
+                103
+            ],
+            "retrieved_chunks": [
+                103,
+                59,
+                53,
+                98,
+                60
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        },
+        {
+            "query": "What is the purpose of data leakage prevention measures and where should they be applied?",
+            "relevant_chunks": [
+                104
+            ],
+            "retrieved_chunks": [
+                104,
+                60,
+                103,
+                65,
+                99
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        },
+        {
+            "query": "What does the standard require for information backups?",
+            "relevant_chunks": [
+                105
+            ],
+            "retrieved_chunks": [
+                53,
+                59,
+                60,
+                29,
+                104
+            ],
+            "precision": 0.0,
+            "recall": 0.0
+        },
+        {
+            "query": "What should organizations do with logs that record activities, exceptions, faults, and other events?",
+            "relevant_chunks": [
+                105
+            ],
+            "retrieved_chunks": [
+                105,
+                85,
+                65,
+                68,
+                30
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        },
+        {
+            "query": "What is network segregation intended to achieve?",
+            "relevant_chunks": [
+                108
+            ],
+            "retrieved_chunks": [
+                107,
+                108,
+                57,
+                53,
+                80
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        },
+        {
+            "query": "What does the use of cryptography control require an organization to define and implement?",
+            "relevant_chunks": [
+                108
+            ],
+            "retrieved_chunks": [
+                108,
+                76,
+                45,
+                27,
+                72
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        },
+        {
+            "query": "What is required to keep development, testing, and production environments secure?",
+            "relevant_chunks": [
+                110
+            ],
+            "retrieved_chunks": [
+                110,
+                111,
+                97,
+                109,
+                57
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        },
+        {
+            "query": "How should test information be selected, protected, and managed?",
+            "relevant_chunks": [
+                111
+            ],
+            "retrieved_chunks": [
+                111,
+                112,
+                53,
+                49,
+                65
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        },
+        {
+            "query": "How should audit testing involving operational systems be planned and agreed?",
+            "relevant_chunks": [
+                112
+            ],
+            "retrieved_chunks": [
+                112,
+                68,
+                66,
+                67,
+                107
+            ],
+            "precision": 0.2,
+            "recall": 1.0
+        }
+    ],
+    "average_metrics": {
+        "precision": 0.1686274509803921,
+        "recall": 0.8431372549019608,
+        "mrr": 0.6640522875816993
+    }
+}

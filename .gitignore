@@ -1,1 +1,6 @@
 Data Extraction Pipeline/.env
+First Rag Pipeline/.env
+First Rag Pipeline/iso27001.pdf
+*.pyc
+/First Rag Pipeline/chroma
+First Rag Pipeline/__pycache__/
